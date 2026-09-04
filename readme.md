@@ -1,0 +1,5 @@
+## Usage
+
+```
+./process.sh <githubUserName>
+```
